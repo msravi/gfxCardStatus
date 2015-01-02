@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>401AE2CE-2621-44CD-AE07-07397297C592</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gfxCardStatus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B3956FE-67D9-4E80-9874-B97B71F7F133</key>
+		<string>git://github.com/codykrieger/gfxCardStatus.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gfxCardStatus.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B3956FE-67D9-4E80-9874-B97B71F7F133</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git://github.com/codykrieger/gfxCardStatus.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B3956FE-67D9-4E80-9874-B97B71F7F133</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B3956FE-67D9-4E80-9874-B97B71F7F133</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gfxCardStatus</string>
+		</dict>
+	</array>
+</dict>
+</plist>
